@@ -36,6 +36,10 @@ var scenes = {
     image: 'taj-mahal.jpg',
     preview: 'taj-mahal-preview.jpg'
   },
+  tajMahal: {
+    image: 'micasa.jpg',
+    preview: 'micasa-preview.jpg'
+  },
 };
 
 function onLoad() {
