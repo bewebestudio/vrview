@@ -29,7 +29,7 @@ var scenes = {
     preview: 'machu-picchu-preview.jpg'
   },
   chichenItza: {
-    image: 'chichen-itza.jpg',
+    image: 'micasa.jpg',
     preview: 'chichen-itza-preview.jpg'
   },
   tajMahal: {
