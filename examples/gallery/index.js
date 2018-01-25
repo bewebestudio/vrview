@@ -36,7 +36,7 @@ var scenes = {
     image: 'taj-mahal.jpg',
     preview: 'taj-mahal-preview.jpg'
   },
-  tajMahal: {
+  micasa: {
     image: 'micasa.jpg',
     preview: 'micasa-preview.jpg'
   },
